@@ -1,0 +1,14 @@
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\bin\Debug\net8.0\ВТ-C#-18_00.exe
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\bin\Debug\net8.0\ВТ-C#-18_00.deps.json
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\bin\Debug\net8.0\ВТ-C#-18_00.runtimeconfig.json
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\bin\Debug\net8.0\ВТ-C#-18_00.dll
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\bin\Debug\net8.0\ВТ-C#-18_00.pdb
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.AssemblyInfoInputs.cache
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.AssemblyInfo.cs
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.csproj.CoreCompileInputs.cache
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.dll
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\refint\ВТ-C#-18_00.dll
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.pdb
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.genruntimeconfig.cache
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ref\ВТ-C#-18_00.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\\u0412\u0422-C#-18_00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4638D49-D4CD-49EE-A9D9-0E8B449E8E3D}|\u0412\u0422-C#-18_00\\\u0412\u0422-C#-18_00.csproj|d:\\c#\\\u0432\u0442-c#-18_00\\\u0432\u0442-c#-18_00\\guess_the_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4638D49-D4CD-49EE-A9D9-0E8B449E8E3D}|\u0412\u0422-C#-18_00\\\u0412\u0422-C#-18_00.csproj|solutionrelative:\u0432\u0442-c#-18_00\\guess_the_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guess_the_num.cs",
+              "DocumentMoniker": "D:\\C#\\\u0412\u0422-C#-18_00\\\u0412\u0422-C#-18_00\\Guess_the_num.cs",
+              "RelativeDocumentMoniker": "\u0412\u0422-C#-18_00\\Guess_the_num.cs",
+              "ToolTip": "D:\\C#\\\u0412\u0422-C#-18_00\\\u0412\u0422-C#-18_00\\Guess_the_num.cs*",
+              "RelativeToolTip": "\u0412\u0422-C#-18_00\\Guess_the_num.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:14:55.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
