@@ -12,3 +12,4 @@ D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\refint\ВТ-C#-18_00.dll
 D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.pdb
 D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.genruntimeconfig.cache
 D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ref\ВТ-C#-18_00.dll
+D:\C#\ВТ-C#-18_00\ВТ-C#-18_00\obj\Debug\net8.0\ВТ-C#-18_00.sourcelink.json

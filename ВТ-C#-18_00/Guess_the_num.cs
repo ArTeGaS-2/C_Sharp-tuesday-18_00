@@ -12,6 +12,16 @@ namespace ВТ_C__18_00
         {
             Console.OutputEncoding = Encoding.UTF8;
 
+            string playAgain = "так";
+
+            while (playAgain.ToLower() == "так")
+            {
+                playAgain = Console.ReadLine();
+                MainGameCycle();
+            }
+        }
+        public static void MainGameCycle()
+        {
             // Змінна класу Random
             Random random = new Random();
 
@@ -19,7 +29,7 @@ namespace ВТ_C__18_00
             // створене класом Random
             int secretNumber = random.Next(1, 101);
 
-            Console.WriteLine("Введіть число від 1 до 100: \n");
+            Console.WriteLine("Введіть число від 1 до 100.");
             // Змінна, що зберігає результат введення у вигляді
             // цілого числа
 
@@ -27,25 +37,42 @@ namespace ВТ_C__18_00
 
             int attempts = 0;
 
-            while (guess != secretNumber)
+            int maxAttempts = 10;
+
+            int maxAttemptsIndicator = maxAttempts;
+
+            Console.WriteLine(
+                    $"Максимальна кількість спроб - {maxAttempts} \n");
+
+            while (guess != secretNumber & attempts < maxAttempts)
             {
                 guess = int.Parse(Console.ReadLine());
 
                 attempts++;
+                maxAttemptsIndicator--;
 
                 if (guess < secretNumber)
                 {
-                    Console.WriteLine("Загадане число більше!");
+                    Console.WriteLine(
+                        $"Загадане число більше! Поточна спроба {attempts}. " +
+                        $"Залишилось {maxAttemptsIndicator} спроб.");
                 }
                 else if (guess > secretNumber)
                 {
-                    Console.WriteLine("Загадане число меньше!");
+                    Console.WriteLine(
+                        $"Загадане число меньше! Поточна спроба {attempts}." +
+                        $"Залишилось {maxAttemptsIndicator} спроб.");
                 }
                 else
                 {
                     Console.WriteLine(
                         $"Вітаю, ви виграли за {attempts} спроб!");
                 }
+            }
+            if (attempts == maxAttempts && guess != secretNumber)
+            {
+                Console.WriteLine(
+                    $"Вітаю ви програли! Загадане число {secretNumber}.");
             }
         }
     }
